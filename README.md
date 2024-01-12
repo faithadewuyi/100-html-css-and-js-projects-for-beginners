@@ -32,15 +32,17 @@ Certainly! Here's the revised section with the suggestion to fork the repository
    After making changes, commit them, and push to your forked repository. Finally, create a pull request to contribute your changes back to the main repository.
 
 ## Project List
-All Project Briefs or Requirements are in specific project folders in the README.md Participants are free to create different variations of the project Briefs.
+All Project Briefs or Requirements are in specific project folders in the README.md Participants are free to create different variations of the project Briefs. All you need is to specify the variations in the project folders.
 
 Each project folder contains its own README file with detailed instructions and specifications.
 
-1. Technical Foxtrot Company Website
-2. Art Company Website
+1. Technical Foxtrot - Tech Company Website
+2. Art - Food Company Website
 3. Online Book Store Website
-4. Personal Portfolio Website
-5. Entertainment Website
+4. Grace - Personal Portfolio Website
+5. Sharp Fuzz - Entertainment Website
+6. Glow - Fashion Website
+7. Pocket - Real Estate Website
 
 
 ## Contributing
