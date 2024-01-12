@@ -1,4 +1,4 @@
-# 100-html-css-and-js-projects-for-beginners
+# 100 HTML, CSS and Javacript Projects for Beginners
 Welcome to the "100 HTML, CSS, and JS Projects for Beginners" repository! This collection is designed to help beginners strengthen their web development skills by working on a variety of small projects. Each project focuses on HTML, CSS, and JavaScript, providing a hands-on learning experience.
 Certainly! Here's the revised section with the suggestion to fork the repository:
 
@@ -32,12 +32,13 @@ Certainly! Here's the revised section with the suggestion to fork the repository
    After making changes, commit them, and push to your forked repository. Finally, create a pull request to contribute your changes back to the main repository.
 
 ## Project List
-
-### Project 1: Whiplash Company Website
-Project Description: 
-
+All Project Briefs or Requirements are in specific project folders in the README.md Participants are free to create different variations of the project Briefs.
 
 Each project folder contains its own README file with detailed instructions and specifications.
+
+1. Project 1: Technical Foxtrot Company Website
+2. Project 2: Art
+
 
 ## Contributing
 
@@ -47,4 +48,4 @@ Contributions are welcome! If you have additional projects or improvements to ex
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Happy coding!
+HAPPY CODING!
