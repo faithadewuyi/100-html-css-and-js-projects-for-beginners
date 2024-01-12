@@ -44,6 +44,9 @@ Each project folder contains its own README file with detailed instructions and 
 6. Glow - Fashion Website
 7. Pocket - Real Estate Website
 8. Biggest Slate Global - Education Website
+9. Checkpoint International - Transportation Website
+10. Juicy Licorice - Food Company Website
+11. White Lookout - Travel Website
 
 
 ## Contributing
