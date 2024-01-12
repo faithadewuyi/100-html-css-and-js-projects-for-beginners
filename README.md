@@ -47,6 +47,10 @@ Each project folder contains its own README file with detailed instructions and 
 9. Checkpoint International - Transportation Website
 10. Juicy Licorice - Food Company Website
 11. White Lookout - Travel Website
+12. Boldport Industries - Manufacturing Website
+13. Mango Margarita - Restaurant Website
+14. The Great Outdoors - Sports & Adventure Website
+15. Spire - Blockchain Technology Website
 
 
 ## Contributing
