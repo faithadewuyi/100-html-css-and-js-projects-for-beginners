@@ -43,6 +43,7 @@ Each project folder contains its own README file with detailed instructions and 
 5. Sharp Fuzz - Entertainment Website
 6. Glow - Fashion Website
 7. Pocket - Real Estate Website
+8. Biggest Slate Global - Education Website
 
 
 ## Contributing
