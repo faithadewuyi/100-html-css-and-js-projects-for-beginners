@@ -36,8 +36,11 @@ All Project Briefs or Requirements are in specific project folders in the README
 
 Each project folder contains its own README file with detailed instructions and specifications.
 
-1. Project 1: Technical Foxtrot Company Website
-2. Project 2: Art
+1. Technical Foxtrot Company Website
+2. Art Company Website
+3. Online Book Store Website
+4. Personal Portfolio Website
+5. Entertainment Website
 
 
 ## Contributing
