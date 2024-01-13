@@ -64,6 +64,11 @@ Each project folder contains its own README.md file with detailed instructions a
 28. EcoEducate - An educational website focused on environmental issues and sustainability.
 29. CodeCoach - An online platform connecting novice coders with experienced mentors.
 30. GreenThumb - A web app for gardening enthusiasts with tips, plant identification, and community features.
+31. StyleSwap - A clothing exchange platform for fashion enthusiasts to swap items.
+32. FlixFlow - A movie and TV show streaming web app
+33. CookieClickerPro - A cookie clicker game with various upgrades and achievements.
+34. DiscoverLocal - A platform for discovering hidden gems and local attractions in different cities.
+35. HomeHubHero - A real estate platform that empowers users with tools for DIY home improvement projects.
 
 ## Contributing
 
@@ -73,7 +78,7 @@ Contributions are welcome! If you have additional projects or improvements to ex
 Feel free to use any of these resources or suggest additional resources below:
 1. HTML
 2. CSS
-3. Bootstrap or Tailwind CSS
+3. Bootstrap or Tailwind CSS 
 4. JavaScript
 5. jQuery
 6. Unsplash and Pexels for free Project images
