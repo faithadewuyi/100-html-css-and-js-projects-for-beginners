@@ -69,6 +69,11 @@ Each project folder contains its own README.md file with detailed instructions a
 33. CookieClickerPro - A cookie clicker game with various upgrades and achievements.
 34. DiscoverLocal - A platform for discovering hidden gems and local attractions in different cities.
 35. HomeHubHero - A real estate platform that empowers users with tools for DIY home improvement projects.
+36. InvestInnovate - An investment platform that highlights innovative startups and facilitates crowdfunding.
+37. Purple Leopard - Retail store Website
+38. Super Bloom Industries - a company that develops new ways to discover fun things to do
+39. Kernel - A company that makes textbooks for learning graphics design
+40. Blue Husky - a real estate company that offer a selection of new mansions with solar power
 
 ## Contributing
 
