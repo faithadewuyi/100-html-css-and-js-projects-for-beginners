@@ -79,6 +79,11 @@ Each project folder contains its own README.md file with detailed instructions a
 43. Recipe Book - users can browse, search, and filter recipes
 44. Interactive Physics Simulations - a website with interactive physics simulations, allowing users to manipulate variables and observe the effects in real-time.
 45. Currency Converter - a currency converter tool that fetches real-time exchange rates and allows users to convert amounts between different currencies.
+46. Responsive Navigation Menu
+47. Animated Landing Page
+48. Contact Form Validation
+49. Drag-and-Drop Puzzle Game
+50. Drag-and-Drop File Uploader
 
 ## Contributing
 
