@@ -74,6 +74,11 @@ Each project folder contains its own README.md file with detailed instructions a
 38. Super Bloom Industries - a company that develops new ways to discover fun things to do
 39. Kernel - A company that makes textbooks for learning graphics design
 40. Blue Husky - a real estate company that offer a selection of new mansions with solar power
+41. Music Player - a music player with features like play, pause, skip, and volume control. Include the ability to create and save playlists.
+42. Quiz Game - an interactive quiz game with multiple-choice questions and a scoring system. 
+43. Recipe Book - users can browse, search, and filter recipes
+44. Interactive Physics Simulations - a website with interactive physics simulations, allowing users to manipulate variables and observe the effects in real-time.
+45. Currency Converter - a currency converter tool that fetches real-time exchange rates and allows users to convert amounts between different currencies.
 
 ## Contributing
 
