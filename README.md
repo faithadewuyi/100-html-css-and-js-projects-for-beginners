@@ -84,6 +84,11 @@ Each project folder contains its own README.md file with detailed instructions a
 48. Contact Form Validation
 49. Drag-and-Drop Puzzle Game
 50. Drag-and-Drop File Uploader
+51. Chat Application
+52. Animated Counter
+53. Photo Gallery
+54. Video Player
+55. Interactive Infographics
 
 ## Contributing
 
