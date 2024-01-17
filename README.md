@@ -89,6 +89,11 @@ Each project folder contains its own README.md file with detailed instructions a
 53. Photo Gallery
 54. Video Player
 55. Interactive Infographics
+56. Social Media Feed
+57. Blogging Website
+58. Online Shopping Store UI
+59. Travel Website Design
+60. Wedding Planner Web App Concept
 
 ## Contributing
 
