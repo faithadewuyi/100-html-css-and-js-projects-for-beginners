@@ -104,6 +104,8 @@ Each project folder contains its own README.md file with detailed instructions a
 68. Real Estate Agent Website
 69. Virtual Assistant Business Card
 70. Marketing Agency Website
+71. Budget Tracker
+
 This is not an exhaustive list but rather a starting point for brainstorming ideas.
 
 ## Contributing
