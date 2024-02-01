@@ -105,6 +105,8 @@ Each project folder contains its own README.md file with detailed instructions a
 69. Virtual Assistant Business Card
 70. Marketing Agency Website
 71. Budget Tracker
+72. Grocery List Manager
+73. To Do List Manager
 
 This is not an exhaustive list but rather a starting point for brainstorming ideas.
 
