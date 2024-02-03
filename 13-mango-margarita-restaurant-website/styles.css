@@ -1,0 +1,67 @@
+
+body{
+font-family: 'Bona Nova', serif;
+font-family: 'Italianno', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+ .navSection {
+    background: linear-gradient(rgb(194, 11, 11), rgba(255, 255, 255, 0.5)), url('./images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust based on your content */
+  }
+    
+  .navbar-toggler{
+    color: rgb(228, 210, 106);
+    font-size: 25px;
+    background-color: rgb(228, 210, 106);
+  }
+
+.images{
+  border-radius: 5px 15px;
+  width: 100px;
+  height: 70px;
+}
+
+.btn{
+  border-radius: 5px;
+  border: 1px solid rgb(228, 210, 106);
+  background-color: rgb(228, 210, 106);
+  color:#fff;
+
+}
+.btn:hover{
+  background-color: rgb(194, 11, 11) ;
+  color: #fff;
+}
+.navbar-nav  {
+  margin-right: 20px;
+  color: gold; 
+}
+
+.nav-link{
+color: rgb(228, 210, 106);
+font-size: 20px;
+}
+
+.container{
+  margin-top: 8rem;
+}
+.container h1{
+  font-family: 'Bona Nova', serif;
+  font-weight: bold;
+  color: rgb(243, 214, 50);
+  line-height: 1.5;
+  font-size: 50px;;
+}
+.container p{
+  text-align: justify;
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+.img-fluid{
+  width: 450px;
+  border-radius: 5px;
+}
