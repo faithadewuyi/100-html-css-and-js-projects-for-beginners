@@ -107,6 +107,8 @@ Each project folder contains its own README.md file with detailed instructions a
 71. Budget Tracker
 72. Grocery List Manager
 73. To Do List Manager
+74. Task Management Tool
+75. Time Tracking Software
 
 This is not an exhaustive list but rather a starting point for brainstorming ideas.
 
